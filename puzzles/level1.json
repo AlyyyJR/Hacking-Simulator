@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "type": "password_crack",
+        "difficulty": "easy",
+        "hint": "Le mot de passe est un prénom connu.",
+        "hash": "64489c85dc2fe0787b85cd87214b3810",
+        "method": "md5",
+        "solution": "Alice"
+    }
+]

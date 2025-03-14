@@ -1,0 +1,10 @@
+[
+    {
+        "id": 2,
+        "type": "file_manipulation",
+        "difficulty": "medium",
+        "hint": "Trouvez le fichier caché et affichez son contenu.",
+        "file_path": ".hidden_message.txt",
+        "solution": "hacked_success"
+    }
+]

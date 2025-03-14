@@ -1,0 +1,6 @@
+rich
+pygame
+requests
+json
+hashlib
+scapy
