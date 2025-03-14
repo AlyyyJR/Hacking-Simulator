@@ -29,7 +29,6 @@ python src/main.py
 ---
 
 ### 📄 `INSTALL.md`
-```md
 # 📥 Installation du Hacking Simulator
 
 ## 1️⃣ Prérequis
