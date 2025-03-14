@@ -36,6 +36,7 @@ python src/main.py
 - Modules listés dans `requirements.txt`
 
 ## 2️⃣ Installation
-git clone https://github.com/ton-repo/hacking-simulator.git
+git clone https://github.com/ton-repo hacking-simulator.git
+
 cd hacking-simulator
 pip install -r requirements.txt
