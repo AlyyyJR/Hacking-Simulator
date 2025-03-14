@@ -1,4 +1,4 @@
-# 💻 Hacking Simulator - Python
+# 💻 Hacking Simulator 
 
 Un jeu de simulation où tu dois résoudre des défis de piratage informatique, tels que :
 - 🔓 Crack de mots de passe
@@ -7,13 +7,12 @@ Un jeu de simulation où tu dois résoudre des défis de piratage informatique, 
 - 🔍 Cryptanalyse
 
 ## 🛠 Fonctionnalités
-✅ Jouable en terminal ou en mode GUI  
-✅ Plusieurs types de défis  
-✅ Niveau de difficulté progressif  
-✅ Gestion des puzzles en JSON  
+- ✅ Jouable en terminal ou en mode GUI  
+- ✅ Plusieurs types de défis  
+- ✅ Niveau de difficulté progressif  
+- ✅ Gestion des puzzles en JSON  
 
 ## 🚀 Installation
-```bash
 git clone https://github.com/ton-repo/hacking-simulator.git
 cd hacking-simulator
 pip install -r requirements.txt
@@ -38,7 +37,6 @@ python src/main.py
 - Modules listés dans `requirements.txt`
 
 ## 2️⃣ Installation
-```bash
 git clone https://github.com/ton-repo/hacking-simulator.git
 cd hacking-simulator
 pip install -r requirements.txt
